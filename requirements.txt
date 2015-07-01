@@ -1,0 +1,8 @@
+enum34==1.0.4
+futures==3.0.3
+pika==0.9.14
+pluggy==0.3.0
+py==1.4.30
+six==1.9.0
+tox==2.1.1
+virtualenv==13.1.0
